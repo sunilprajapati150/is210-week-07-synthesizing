@@ -89,7 +89,7 @@ Half-Cartesian, or, in tabular form:
 
 In the above example, each player interacts with each other player only once.
 Now, interestingly enough, achieving this Half-Cartesian does not require
-particularly complex checking, in-fact, these all half a mathematical
+particularly complex checking, in-fact, these all have a mathematical
 relationship if you consider the *index* of each of these items in a list. As
 above, the index of the row must always be less than the index of a column.
 
@@ -174,7 +174,7 @@ Pretty neat, huh?
 
     It's important to note that while such a solution could indeed provide a
     base for such a system, you should not use this solution, unaltered, in any
-    production context as passwords as this implementation is incomplete.
+    production context as this implementation is incomplete.
 
 Specifications
 ^^^^^^^^^^^^^^
