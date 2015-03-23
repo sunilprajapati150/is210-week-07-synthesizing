@@ -209,7 +209,8 @@ Specifications
         attempting to log in
 
     2.  ``maxattempts`` (int, optional): An integer represent the maximum
-        number of prompted attempts before the function returns False.
+        number of prompted attempts before the function returns False. Defaults
+        to ``3``
 
 4.  Near the top of the function create a variable to store whether or not the
     user has been authenticated and set its value to ``False``. This will be
