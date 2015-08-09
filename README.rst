@@ -1,5 +1,5 @@
 ####################
-IS 210 Assignment 08
+IS 210 Assignment 07
 ####################
 ******************
 Synthesizing Tasks
@@ -8,8 +8,6 @@ Synthesizing Tasks
 :College: CUNY School of Professional Studies
 :Course-Name: Software Application Programming I
 :Course-Code: IS 210
-:Points: 18
-:Due-Date: YYYY-MM-DDTHH:mm:ss
 
 Overview
 ========
